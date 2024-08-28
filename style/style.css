@@ -40,6 +40,9 @@ img{
 }
 
 button{
+    font-family: var(--fonte-padrao);
+    font-weight: bold;
+    font-size: 15px;
     background-color: var(--cor3);
     position: absolute;
     left: 1550px;
