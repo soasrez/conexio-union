@@ -18,6 +18,10 @@
 
 }
 
+header { 
+    width: 100%;
+}
+
 nav{
     font-family: var(--fonte-titulo);
     font-size: 20px;
